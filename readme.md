@@ -4,7 +4,7 @@ A Python implementation project for Symmetric Group $S_n$ related computations.
 
 ## Introduction
 
-Representation of Symmetric Group, as well as related Young Tableau algorithm, is center for various topics in Representation Theory and Combinatorial Mathematics. This library is a project on researching and learning Representation Theory. The toolbox covers
+Representation of Symmetric Group, as well as related Young tableau algorithm, is center for various topics in representation theory and combinatorial mathematics. This library is a project on researching and learning representation theory. The toolbox covers
 
 - Group permutations computations and convertions
 - Partitions algorithms and order
